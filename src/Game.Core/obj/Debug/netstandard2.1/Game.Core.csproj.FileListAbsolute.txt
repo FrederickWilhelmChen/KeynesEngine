@@ -1,0 +1,9 @@
+E:\KeynesEngine\src\Game.Core\bin\Debug\netstandard2.1\Game.Core.deps.json
+E:\KeynesEngine\src\Game.Core\bin\Debug\netstandard2.1\Game.Core.dll
+E:\KeynesEngine\src\Game.Core\bin\Debug\netstandard2.1\Game.Core.pdb
+E:\KeynesEngine\src\Game.Core\obj\Debug\netstandard2.1\Game.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\KeynesEngine\src\Game.Core\obj\Debug\netstandard2.1\Game.Core.AssemblyInfoInputs.cache
+E:\KeynesEngine\src\Game.Core\obj\Debug\netstandard2.1\Game.Core.AssemblyInfo.cs
+E:\KeynesEngine\src\Game.Core\obj\Debug\netstandard2.1\Game.Core.csproj.CoreCompileInputs.cache
+E:\KeynesEngine\src\Game.Core\obj\Debug\netstandard2.1\Game.Core.dll
+E:\KeynesEngine\src\Game.Core\obj\Debug\netstandard2.1\Game.Core.pdb
