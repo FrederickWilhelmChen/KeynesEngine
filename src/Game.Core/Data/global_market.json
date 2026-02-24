@@ -1,0 +1,26 @@
+{
+  "seed": 123456,
+  "commodities": [
+    {
+      "code": "ENERGY",
+      "basePrice": 100.0,
+      "shockAmplitude": 0.05,
+      "shockPeriod": 30,
+      "noiseAmplitude": 0.02
+    },
+    {
+      "code": "FOOD",
+      "basePrice": 50.0,
+      "shockAmplitude": 0.03,
+      "shockPeriod": 45,
+      "noiseAmplitude": 0.015
+    },
+    {
+      "code": "METAL",
+      "basePrice": 80.0,
+      "shockAmplitude": 0.04,
+      "shockPeriod": 60,
+      "noiseAmplitude": 0.02
+    }
+  ]
+}

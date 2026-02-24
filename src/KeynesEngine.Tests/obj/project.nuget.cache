@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DXyw+HR3CKk=",
+  "dgSpecHash": "lNyCVp/NFfQ=",
   "success": true,
   "projectFilePath": "E:\\KeynesEngine\\src\\KeynesEngine.Tests\\KeynesEngine.Tests.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\99786\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

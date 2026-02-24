@@ -7,3 +7,5 @@ E:\KeynesEngine\src\Game.Core\obj\Debug\netstandard2.1\Game.Core.AssemblyInfo.cs
 E:\KeynesEngine\src\Game.Core\obj\Debug\netstandard2.1\Game.Core.csproj.CoreCompileInputs.cache
 E:\KeynesEngine\src\Game.Core\obj\Debug\netstandard2.1\Game.Core.dll
 E:\KeynesEngine\src\Game.Core\obj\Debug\netstandard2.1\Game.Core.pdb
+E:\KeynesEngine\src\Game.Core\obj\Debug\netstandard2.1\Game.Core.csproj.AssemblyReference.cache
+E:\KeynesEngine\src\Game.Core\obj\Debug\netstandard2.1\Game.Core.sourcelink.json

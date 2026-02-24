@@ -1,0 +1,22 @@
+{
+  "commodities": [
+    {
+      "code": "ENERGY",
+      "demandElasticity": 0.2,
+      "priceSensitivity": 1.0,
+      "priceDominance": "Demand"
+    },
+    {
+      "code": "FOOD",
+      "demandElasticity": 0.4,
+      "priceSensitivity": 1.1,
+      "priceDominance": "Demand"
+    },
+    {
+      "code": "METAL",
+      "demandElasticity": 0.25,
+      "priceSensitivity": 1.2,
+      "priceDominance": "Supply"
+    }
+  ]
+}

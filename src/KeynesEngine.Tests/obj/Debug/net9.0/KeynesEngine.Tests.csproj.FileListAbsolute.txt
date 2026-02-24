@@ -16,3 +16,4 @@ E:\KeynesEngine\src\KeynesEngine.Tests\obj\Debug\net9.0\refint\KeynesEngine.Test
 E:\KeynesEngine\src\KeynesEngine.Tests\obj\Debug\net9.0\KeynesEngine.Tests.pdb
 E:\KeynesEngine\src\KeynesEngine.Tests\obj\Debug\net9.0\KeynesEngine.Tests.genruntimeconfig.cache
 E:\KeynesEngine\src\KeynesEngine.Tests\obj\Debug\net9.0\ref\KeynesEngine.Tests.dll
+E:\KeynesEngine\src\KeynesEngine.Tests\obj\Debug\net9.0\KeynesEngine.Tests.sourcelink.json
